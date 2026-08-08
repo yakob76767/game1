@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>当たり判定サンプル</title>
+<style>
+canvas { border: 1px solid #ac4a4a; background: #9168ba; }
+</style>
+</head>
+<body>
+<canvas id="game" width="800" height="600"></canvas>
+
 <script>
 const canvas = document.getElementById('game');
 const ctx = canvas.getContext('2d');
