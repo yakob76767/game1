@@ -196,3 +196,5 @@ requestAnimationFrame(gameLoop);
 }
 gameLoop();
 </script>
+</body>
+</html>
